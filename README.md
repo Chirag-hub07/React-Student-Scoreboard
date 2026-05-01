@@ -6,7 +6,7 @@ A simple and interactive **React-based Student Scoreboard Application** that all
 
 ## 🚀 Live Demo
 
-🔗 https://reacttask1krmu.netlify.app/
+🔗react-student-scoreboard-liard.vercel.app
 
 ---
 
@@ -100,7 +100,7 @@ src/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/React-Student-Scoreboard.git
+git clone https://github.com/Chirag-hub07/React-Student-Scoreboard.git
 ```
 
 2. Navigate to project folder:
