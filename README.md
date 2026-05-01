@@ -6,7 +6,7 @@ A simple and interactive **React-based Student Scoreboard Application** that all
 
 ## 🚀 Live Demo
 
-🔗 react-student-scoreboard-liard.vercel.app
+🔗 https://react-student-scoreboard-liard.vercel.app
 
 ---
 
